@@ -39,7 +39,7 @@
 def fortune():
 
     # This ignores our code so that we do not get an error Remove 'pass' when you want to start testing code.
-    pass
+    print("What is going on/")
 
 #  Make sure to add parameters
 def shipping():
